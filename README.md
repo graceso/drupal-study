@@ -4,6 +4,8 @@
 
 * Front-end development
 
+  * [Drupal 8 Theming with Twig 📖](https://www.drupal.org/node/2571555)
+
 * Back-end development
 
 * Site-building
