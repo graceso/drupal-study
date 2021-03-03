@@ -5,6 +5,7 @@
 * Front-end development
 
   * [Drupal 8 Theming with Twig 📖](https://www.drupal.org/node/2571555)
+  * [Theming Drupal Sites 📹](https://drupalize.me/series/drupal-theming)
 
 * Back-end development
 
