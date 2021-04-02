@@ -18,3 +18,4 @@
 * Misc
 
   * [Kubernetes 101 📹](https://www.youtube.com/playlist?list=PL2_OBreMn7FoYmfx27iSwocotjiikS5BD)
+  * [Drupal Security Best Practices 📖](https://www.drupal.org/node/2823484)
